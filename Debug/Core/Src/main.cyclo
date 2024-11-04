@@ -1,0 +1,13 @@
+main.c:78:6:spi_write	2
+main.c:88:6:display	1
+main.c:110:8:pick_random_button	1
+main.c:114:6:add_new_button	1
+main.c:119:6:reset_buttons	1
+main.c:123:6:set_led	1
+main.c:127:6:blink_led	1
+main.c:133:6:play_button_series	2
+main.c:149:5:main	1
+main.c:196:6:SystemClock_Config	3
+main.c:233:13:MX_USART2_UART_Init	2
+main.c:266:13:MX_GPIO_Init	1
+main.c:325:6:Error_Handler	1
